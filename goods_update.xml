@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<goods_data>
+  <goodsNo>1000001371</goodsNo>
+  <goodsNmFl>d</goodsNmFl>
+  <goodsNm><![CDATA[[에쓰푸드] 렌치소스_2kg_test]]></goodsNm>
+  <goodsDisplayFl>n</goodsDisplayFl>
+  <goodsDisplayMobileFl>n</goodsDisplayMobileFl>
+  <goodsSellFl>y</goodsSellFl>
+  <goodsSellMobileFl>y</goodsSellMobileFl>
+  <scmNo>1</scmNo>
+  <cateCd>009</cateCd>
+  <goodsState>n</goodsState>
+  <imageStorage>local</imageStorage>
+  <restockFl>y</restockFl>
+  <mileageFl>c</mileageFl>
+  <goodsDiscountFl>n</goodsDiscountFl>
+  <payLimitFl>n</payLimitFl>
+  <optionFl>n</optionFl>
+  <optionTextFl>n</optionTextFl>
+  <addGoodsFl>n</addGoodsFl>
+  <stockFl>n</stockFl>
+  <soldOutFl>y</soldOutFl>
+  <taxFreeFl>t</taxFreeFl>
+  <goodsPermission>all</goodsPermission>
+  <deliverySno>2</deliverySno>
+  <relationFl>n</relationFl>
+  <detailInfoDelivery>0</detailInfoDelivery>
+  <detailInfoAS>0</detailInfoAS>
+  <detailInfoRefund>0</detailInfoRefund>
+  <detailInfoExchange>0</detailInfoExchange>
+  <allCateCd>011010|013|009</allCateCd>
+  <imageUpdate>N</imageUpdate>
+</goods_data>
